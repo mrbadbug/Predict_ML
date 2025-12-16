@@ -2,8 +2,7 @@
 
 A machine‑learning project that builds, trains, and evaluates predictive models using data to forecast outcomes.
 
-## Features
-
+**Features**
 - Load and preprocess datasets (CSV, Excel, etc)  
 - Train machine learning models with scikit‑learn  
 - Evaluate model performance (accuracy, precision, recall, ROC)  
@@ -11,10 +10,8 @@ A machine‑learning project that builds, trains, and evaluates predictive model
 - (Optional) Use deep learning models with TensorFlow / Keras  
 - Visualize results using Matplotlib and Seaborn
 
-## Installation
-
+**Installation**
 1. Clone the repository:
-
    ```bash
    git clone https://github.com/mrbadbug/Predict_ML.git
    cd Predict_ML
